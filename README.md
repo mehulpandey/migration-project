@@ -1,1 +1,1 @@
-# migration_project
+# migration-project
